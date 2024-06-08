@@ -1,1 +1,5 @@
-welcome javascript file
+function welcome(){
+
+return "welcome javascript file"
+
+}
